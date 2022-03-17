@@ -1,0 +1,16 @@
+.second {
+    display: none;
+}
+
+.first:hover .second {
+    display: block;
+}
+
+.forth {
+    display: none;
+}
+
+.third:hover .forth {
+    display: block;
+}
+
